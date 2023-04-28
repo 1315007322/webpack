@@ -1,0 +1,1 @@
+(()=>{var e={189:e=>{e.exports=function(e){window.document.getElementById("root").innerText=e}}},r={};!function t(o){var n=r[o];if(void 0!==n)return n.exports;var i=r[o]={exports:{}};return e[o](i,i.exports,t),i.exports}(189)("hello yyy")})();

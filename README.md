@@ -1,2 +1,2 @@
-# webpack
-学习webpack相关知识，尝试搭建属于自己的框架
+>  根据 [深入浅出webpack](http://webpack.wuhaolin.cn/) 梳理学习一下 
+
